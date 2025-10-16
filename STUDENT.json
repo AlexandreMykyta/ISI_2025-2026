@@ -1,0 +1,182 @@
+[
+  {
+    "student_id": 1,
+    "student_name": "Ana Silva",
+    "subject": "Matemática",
+    "score": 16
+  },
+  {
+    "student_id": 2,
+    "student_name": "João Costa",
+    "subject": "Matemática",
+    "score": 10
+  },
+  {
+    "student_id": 3,
+    "student_name": "Beatriz Lopes",
+    "subject": "Matemática",
+    "score": 19
+  },
+  {
+    "student_id": 4,
+    "student_name": "Miguel Rocha",
+    "subject": "Matemática",
+    "score": 8
+  },
+  {
+    "student_id": 5,
+    "student_name": "Carla Mendes",
+    "subject": "Matemática",
+    "score": 13
+  },
+  {
+    "student_id": 6,
+    "student_name": "Tiago Nunes",
+    "subject": "Matemática",
+    "score": 11
+  },
+  {
+    "student_id": 7,
+    "student_name": "Rita Ferreira",
+    "subject": "Matemática",
+    "score": 17
+  },
+  {
+    "student_id": 8,
+    "student_name": "Pedro Santos",
+    "subject": "Matemática",
+    "score": 15
+  },
+  {
+    "student_id": 9,
+    "student_name": "Marta Pinto",
+    "subject": "Matemática",
+    "score": 9
+  },
+  {
+    "student_id": 10,
+    "student_name": "Luís Almeida",
+    "subject": "Matemática",
+    "score": 12
+  },
+  {
+    "student_id": 11,
+    "student_name": "Patrícia Gomes",
+    "subject": "Matemática",
+    "score": 14
+  },
+  {
+    "student_id": 12,
+    "student_name": "Hugo Marques",
+    "subject": "Matemática",
+    "score": 18
+  },
+  {
+    "student_id": 13,
+    "student_name": "Raquel Carvalho",
+    "subject": "Matemática",
+    "score": 13
+  },
+  {
+    "student_id": 14,
+    "student_name": "Ricardo Lima",
+    "subject": "Matemática",
+    "score": 7
+  },
+  {
+    "student_id": 15,
+    "student_name": "Catarina Sousa",
+    "subject": "Matemática",
+    "score": 16
+  },
+  {
+    "student_id": 16,
+    "student_name": "André Ribeiro",
+    "subject": "Matemática",
+    "score": 10
+  },
+  {
+    "student_id": 17,
+    "student_name": "Daniela Pires",
+    "subject": "Matemática",
+    "score": 15
+  },
+  {
+    "student_id": 18,
+    "student_name": "Diogo Matos",
+    "subject": "Matemática",
+    "score": 18
+  },
+  {
+    "student_id": 19,
+    "student_name": "Bruna Teixeira",
+    "subject": "Matemática",
+    "score": 9
+  },
+  {
+    "student_id": 20,
+    "student_name": "Fábio Correia",
+    "subject": "Matemática",
+    "score": 12
+  },
+  {
+    "student_id": 21,
+    "student_name": "Inês Castro",
+    "subject": "Matemática",
+    "score": 19
+  },
+  {
+    "student_id": 22,
+    "student_name": "Gonçalo Oliveira",
+    "subject": "Matemática",
+    "score": 14
+  },
+  {
+    "student_id": 23,
+    "student_name": "Paula Figueiredo",
+    "subject": "Matemática",
+    "score": 11
+  },
+  {
+    "student_id": 24,
+    "student_name": "Nelson Duarte",
+    "subject": "Matemática",
+    "score": 8
+  },
+  {
+    "student_id": 25,
+    "student_name": "Tatiana Lopes",
+    "subject": "Matemática",
+    "score": 17
+  },
+  {
+    "student_id": 26,
+    "student_name": "Eduardo Silva",
+    "subject": "Matemática",
+    "score": 15
+  },
+  {
+    "student_id": 27,
+    "student_name": "Sofia Reis",
+    "subject": "Matemática",
+    "score": 13
+  },
+  {
+    "student_id": 28,
+    "student_name": "Bruno Fonseca",
+    "subject": "Matemática",
+    "score": 6
+  },
+  {
+    "student_id": 29,
+    "student_name": "Helena Cardoso",
+    "subject": "Matemática",
+    "score": 10
+  },
+  {
+    "student_id": 30,
+    "student_name": "Leandro Moreira",
+    "subject": "Matemática",
+    "score": 18
+  }
+]
